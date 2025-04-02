@@ -69,4 +69,3 @@
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ummmeohaji)](https://solved.ac/ummmeohaji)
 ![mazandi profile](https://mazandi.herokuapp.com/api?handle=ummmeohaji&theme=warm)  
-
