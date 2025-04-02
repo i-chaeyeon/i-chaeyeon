@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=78a0f7&text=Welcome!&fontColor=ffffff&fontAlign=27&fontAlignY=38&animation=twinkling&descAlign=60&descSize=30&desc=Chaeyeon%20Lee's%20Github%20(*%20'ᵕ'%20)ﾉ&reversal=false)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=484848&width=435&lines=Hi%F0%9F%91%8B+I'm+Chaeyeon+Lee,a+junior+backend+developer;Come+take+a+look!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=484848&width=600&lines=Hi%F0%9F%91%8B+I'm+Chaeyeon+Lee,a+junior+backend+developer;Come+take+a+look!)](https://git.io/typing-svg)
 
 ---   
    
