@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=78a0f7&text=Welcome!&fontColor=ffffff&fontAlign=27&fontAlignY=38&animation=twinkling&descAlign=60&descSize=30&desc=Chaeyeon%20Lee's%20Github%20(*%20'ᵕ'%20)ﾉ&reversal=false)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=484848&width=600&lines=Hi%F0%9F%91%8B+I'm+Chaeyeon+Lee,a+junior+backend+developer;Come+take+a+look!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=484848&width=600&lines=Hi%F0%9F%91%8B+I'm+Chaeyeon+Lee,+a+junior+backend+developer;Come+take+a+look!)](https://git.io/typing-svg)
+
+[![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-chaeyeon)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---   
    
@@ -66,3 +69,4 @@
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ummmeohaji)](https://solved.ac/ummmeohaji)
 ![mazandi profile](https://mazandi.herokuapp.com/api?handle=ummmeohaji&theme=warm)  
+
