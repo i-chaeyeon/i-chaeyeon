@@ -9,7 +9,7 @@
       </a>
     </td>
     <td>
-      <a href="https://velog.io/@chaechae">
+      <a href="https://velog.io/@chchchae">
         <img src="https://velog-readme-stats.vercel.app/api?name=chchchae&color=dark" />
       </a>
     </td>
