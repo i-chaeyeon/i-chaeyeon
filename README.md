@@ -1,81 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=78a0f7&text=Welcome!&fontColor=ffffff&fontAlign=27&fontAlignY=38&animation=twinkling&descAlign=60&descSize=30&desc=Chaeyeon%20Lee's%20Github%20(*%20'ᵕ'%20)ﾉ&reversal=false)
+## Hi 🍀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=484848&width=600&lines=Hi%F0%9F%91%8B+I'm+Chaeyeon+Lee,+a+junior+backend+developer;Come+take+a+look!)](https://git.io/typing-svg)
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=i-chaeyeon" />
-      </a>
-    </td>
-    <td>
-      <a href="https://velog.io/@chaechae">
-        <img src="https://velog-readme-stats.vercel.app/api?name=chchchae&color=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
----   
-   
-## 🛠️ 𝙏𝙤𝙤𝙡𝙨 & 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
+[한국어로 보기](README_kor.md)
 
-<table>
-  <tr>
-    <td>
+### 😎 Interests
+- Solving Real World Problems by Engineering
+- Backend Engineering 
 
-<!-- Languages -->
-<b>Languages</b><br>
-  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🎓 Education
+- Sungkyunkwan University (2022.03 ~)
+    - Biomechatronics & Software Engineering (GPA: 4.25/4.5 | Major: 4.31/4.5)
+    - Expected Graduation: Aug 2026
+- Seoul Jamsin High School (2018.03 ~ 2021.02) 
 
-<br><b>Frontend</b><br>
+### 💻 Tech Stacks
+- **Language**: Java, C++, C, Python, Dart
+- **Framework**: Spring Boot
+- **Database**: PostgreSQL, MySQL
+- **DevOps**: Docker, Github Actions
+- **Others**: Flutter, React, Flask, Figma, Notion, Slack, Discord
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### 🚀 Projects
+- **[KeungDori - Backend]** (_May 2025 – Present_)
+  - A social bookmarking service for places, allowing you to archive and privately share your honest reviews of places with friends, including both good and bad memories.
+  - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
+  - [GitHub Repository](https://github.com/i-chaeyeon/9oormthon-keungdori-be)
+- **[NotiSKKU - Full Stack]** (_Aug 2024 – Present_)
+  - An mobile app designed for easy access to university notices, reorganizing them into a clean and intuitive mobile interface for students, also providing push notifications.
+  - Tech Stack: `Flutter`, `Firebase`, `Playwright`, `FCM`
+  - [GitHub Repository](https://github.com/Team-Notiskku)
+- **[OneMinutes - PM]** (_Sep 2025 – Sep 2025_)
+  - A productivity tool that transforms unstructured meeting notes into clear, actionable tasks to boost team accountability and follow-through.
+  - Tech Stack: `Figma`, `Github`, `Notion`
+  - [GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_68_BE) | [Final Presentation](OneMinutes_PT.pdf)
 
-<br><b>IDE</b><br>
 
-![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+### 🎯 Experiences
+- **LLM Engineer Team Lead** @ [SKKAI(SKKU AI Association)](https://www.linkedin.com/company/skkai-sungkyunkwan-ai/posts/?feedView=all) (_Sep 2025 – Present_)
+    -  Led a specialized team focused on Large Language Models and advanced NLP within SKKAI, the university's AI society.
 
-</td>
-<td>
+- **Teaching Assistant** @ [SKKU](https://www.skku.edu/skku/index.do) (_Mar 2024 – Present_)
+  - Mentored undergraduate students in the "Computational Thinking & SW Coding" course, providing guidance on algorithmic problem-solving and debugging assignments.
 
-<!-- Backend -->
-<b>Backend</b><br>
+- **English Instructor** @ [송이룸영문법](https://www.songirum.com/) (_Jan 2025 – Present_)
+  - Specialized in personalized instruction to achieve significant score improvements in a short timeframe.
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=github%20actions&logoColor=white)
+- **Algorithm Intensive Course** @ [SamsungDX](https://www.samsung-dxrecruit.com/company) (_Aug 2025 – Sep 2025_)
+    - A month-long intensive course on advanced algorithms, covering topics such as Segment Tree and Dijkstra's algorithm.
 
-<br><b>Others</b><br>
+- **English Instructor(Native Fluency)** @ [전이림영어학원](https://blog.naver.com/jeonleelim0513) (_Jan 2024 – Jun 2024_)
+  - Created a fully immersive, native-speaking environment to build students' conversational fluency and confidence.
 
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🏅 Languages & Certificates
+- **Languages**
+  - OPIc AL (2025.04)
+  - TOEIC 975 (2022.02)
+- **Certificates**
+  - Engineer Information Processing (2025.06)
 
-<br><b>Soft Skills</b><br>
+### 💰 Scholarships
+- Academic Excellence Scholarship (3 times)
+     
 
-![Slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
+| GitHub Stats | Solved.ac |
+|:-------------:|:-----------------:|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=i-chaeyeon&rank_icon=github" /></a> | [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ummmeohaji)](https://solved.ac/ummmeohaji) |
 
-</td>
-  </tr>
-</table>
 
----
+### Contact Me
+[<img align="left" alt="gmail" width="48px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />][gmail]
+[<img align="left" alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Notion" width="48px" src="https://img.icons8.com/?size=100&id=F6H2fsqXKBwH&format=png&color=000000" />][notion]
 
-### 🧠 Stats
+[gmail]: mailto:jenny.chaeyeon.lee@gmail.com
+[linkedin]: https://www.linkedin.com/in/jennychaeyeonlee
+[notion]: https://www.notion.so/19576687ba2f80948f1cc4042162fa0a     
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ummmeohaji)](https://solved.ac/ummmeohaji)
-![mazandi profile](https://mazandi.herokuapp.com/api?handle=ummmeohaji&theme=warm)  
