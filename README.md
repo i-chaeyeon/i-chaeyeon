@@ -5,6 +5,7 @@
 ### 😎 Interests
 - Solving Real World Problems by Engineering
 - Backend Engineering 
+- MLOps
 
 ### 🎓 Education
 - Sungkyunkwan University (2022.03 ~)
