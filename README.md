@@ -25,10 +25,12 @@
   - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
   - [GitHub Repository](https://github.com/i-chaeyeon/9oormthon-keungdori-be)
 - **[NotiSKKU - Full Stack]** (_Aug 2024 – Present_)
+    - 🏆 2nd Place, College of Software Engineering Toy Project Competition @ SKKU
   - An mobile app designed for easy access to university notices, reorganizing them into a clean and intuitive mobile interface for students, also providing push notifications.
   - Tech Stack: `Flutter`, `Firebase`, `Playwright`, `FCM`
   - [GitHub Repository](https://github.com/Team-Notiskku)
 - **[OneMinutes - PM]** (_Sep 2025 – Sep 2025_)
+    - 🏆 Finalist, kakao x goorm SEASONTHON Hackathon (Top 20%)
   - A productivity tool that transforms unstructured meeting notes into clear, actionable tasks to boost team accountability and follow-through.
   - Tech Stack: `Figma`, `Github`, `Notion`
   - [GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_68_BE) | [Final Presentation](OneMinutes_PT.pdf)
