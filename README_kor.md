@@ -3,9 +3,10 @@
 [English Ver](README.md)
 
 ### 😎 Interests
-- 일상 속 문제를 기술로 해결
-- 백엔드 개발
+**일상의 문제를 기술로 해결하는 것에 큰 흥미를 느낍니다.**
+- Backend Development
 - MLOps
+- Problem Solving
 
 ### 🎓 Education
 - 성균관대학교 (2022.03 ~)
