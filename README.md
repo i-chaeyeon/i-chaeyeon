@@ -21,15 +21,16 @@
 - **Others**: Flutter, React, Flask, Figma, Notion, Slack, Discord
 
 ### 🚀 Projects
-- **[KeungDori - Backend]** (_May 2025 – Present_)
-  - A social bookmarking service for places, allowing you to archive and privately share your honest reviews of places with friends, including both good and bad memories.
-  - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
-  - [GitHub Repository](https://github.com/i-chaeyeon/9oormthon-keungdori-be)
 - **[NotiSKKU - Full Stack]** (_Aug 2024 – Present_)
     - 🏆 2nd Place, College of Software Engineering Toy Project Competition @ SKKU
+    - Now available on Google Play Store
   - An mobile app designed for easy access to university notices, reorganizing them into a clean and intuitive mobile interface for students, also providing push notifications.
   - Tech Stack: `Flutter`, `Firebase`, `Playwright`, `FCM`
   - [GitHub Repository](https://github.com/Team-Notiskku)
+- **[KeungDori - Backend]** (_May 2025 – Nov 2025_)
+  - A social bookmarking service for places, allowing you to archive and privately share your honest reviews of places with friends, including both good and bad memories.
+  - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
+  - [GitHub Repository](https://github.com/i-chaeyeon/9oormthon-keungdori-be)
 - **[OneMinutes - PM]** (_Sep 2025 – Sep 2025_)
     - 🏆 Finalist, kakao x goorm SEASONTHON Hackathon (Top 20%)
   - A productivity tool that transforms unstructured meeting notes into clear, actionable tasks to boost team accountability and follow-through.
