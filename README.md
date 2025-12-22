@@ -15,18 +15,22 @@
 
 ### 💻 Tech Stacks
 - **Language**: Java, C++, C, Python, Dart
-- **Framework**: Spring Boot
+- **Framework**: Spring Boot, Flutter
 - **Database**: PostgreSQL, MySQL
 - **DevOps**: Docker, Github Actions
-- **Others**: Flutter, React, Flask, Figma, Notion, Slack, Discord
+- **Others**: React, Flask, Figma, Notion, Slack, Discord
 
 ### 🚀 Projects
 - **[NotiSKKU - Full Stack]** (_Aug 2024 – Present_)
     - 🏆 2nd Place, College of Software Engineering Toy Project Competition @ SKKU
-    - Now available on Google Play Store
+    - Now available on Google Play Store → [Click Here!](https://play.google.com/store/apps/details?id=app.notiskku.mobile&hl=en)
   - An mobile app designed for easy access to university notices, reorganizing them into a clean and intuitive mobile interface for students, also providing push notifications.
   - Tech Stack: `Flutter`, `Firebase`, `Playwright`, `FCM`
   - [GitHub Repository](https://github.com/Team-Notiskku)
+- **[Per-Log - Full Stack]** (_Dec 2025 - Present_) - to be updated
+  - A handwriting-based personal diary system featuring a lightweight empathic chatbot designed to provide emotional reflection and supportive conversation.
+  - Tech Stack: `Flutter`
+  - [GitHub Repository] 
 - **[KeungDori - Backend]** (_May 2025 – Nov 2025_)
   - A social bookmarking service for places, allowing you to archive and privately share your honest reviews of places with friends, including both good and bad memories.
   - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
