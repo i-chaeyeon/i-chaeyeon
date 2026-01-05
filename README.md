@@ -27,7 +27,7 @@
   - An mobile app designed for easy access to university notices, reorganizing them into a clean and intuitive mobile interface for students, also providing push notifications.
   - Tech Stack: `Flutter`, `Firebase`, `Playwright`, `FCM`
   - [GitHub Repository](https://github.com/Team-Notiskku)
-- **[Per-Log - Full Stack]** (_Dec 2025 - Present_) - to be updated
+- **[Per-Log - AI & Full Stack]** (_Dec 2025 - Present_) - to be updated
   - A handwriting-based personal diary system featuring a lightweight empathic chatbot designed to provide emotional reflection and supportive conversation.
   - Tech Stack: `Flutter`
   - [GitHub Repository] 
@@ -49,7 +49,7 @@
 - **Teaching Assistant** @ [SKKU](https://www.skku.edu/skku/index.do) (_Mar 2024 – Present_)
   - Mentored undergraduate students in the "Computational Thinking & SW Coding" course, providing guidance on algorithmic problem-solving and debugging assignments.
 
-- **English Instructor** @ [송이룸영문법](https://www.songirum.com/) (_Jan 2025 – Present_)
+- **English Instructor** @ [송이룸영문법](https://www.songirum.com/) (_Jan 2025 – Dec 2025_)
   - Specialized in personalized instruction to achieve significant score improvements in a short timeframe.
 
 - **Algorithm Intensive Course** @ [SamsungDX](https://www.samsung-dxrecruit.com/company) (_Aug 2025 – Sep 2025_)
