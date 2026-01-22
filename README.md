@@ -63,6 +63,7 @@
   - OPIc AL (2025.04)
   - TOEIC 975 (2022.02)
 - **Certificates**
+  - AWS Cloud Practitioner (2026.01)
   - Engineer Information Processing (2025.06)
 
 ### 💰 Scholarships
