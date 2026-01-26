@@ -9,7 +9,7 @@
 
 ### 🎓 Education
 - Sungkyunkwan University (2022.03 ~)
-    - Biomechatronics & Software Engineering (GPA: 4.25/4.5 | Major: 4.31/4.5)
+    - Biomechatronics & Software Engineering (GPA: 4.25/4.5 | Major: 4.25/4.5)
     - Expected Graduation: Aug 2026
 - Seoul Jamsin High School (2018.03 ~ 2021.02) 
 
