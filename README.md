@@ -69,11 +69,9 @@
 ### 💰 Scholarships
 - Academic Excellence Scholarship (3 times)
      
-
 | GitHub Stats | Solved.ac |
 |:-------------:|:-----------------:|
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=i-chaeyeon&rank_icon=github" /></a> | [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ummmeohaji)](https://solved.ac/ummmeohaji) |
-
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=i-chaeyeon&show_icons=true&theme=default" /> | [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ummmeohaji)](https://solved.ac/ummmeohaji) |
 
 ### Contact Me
 [<img align="left" alt="gmail" width="48px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />][gmail]
