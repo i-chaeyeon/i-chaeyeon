@@ -3,9 +3,8 @@
 [한국어로 보기](README_kor.md)
 
 ### 😎 Interests
-- Solving Real World Problems by Engineering
-- Backend Engineering 
-- MLOps
+- Backend Engineering
+- Financial IT
 
 ### 🎓 Education
 - Sungkyunkwan University (2022.03 ~)
@@ -16,7 +15,7 @@
 ### 💻 Tech Stacks
 - **Language**: Java, C++, C, Python, Dart
 - **Framework**: Spring Boot, Flutter
-- **Database**: PostgreSQL, MySQL
+- **Database**: PostgreSQL, MySQL, Firestore
 - **DevOps**: Docker, Github Actions
 - **Others**: React, Flask, Figma, Notion, Slack, Discord
 
