@@ -4,9 +4,8 @@
 
 ### 😎 Interests
 **일상의 문제를 기술로 해결하는 것에 큰 흥미를 느낍니다.**
-- Backend Development
-- MLOps
-- Problem Solving
+- 백엔드 개발
+- 금융 IT
 
 ### 🎓 Education
 - 성균관대학교 (2022.03 ~)
@@ -16,21 +15,26 @@
 
 ### 💻 Tech Stacks
 - **Language**: Java, C++, C, Python, Dart
-- **Framework**: Spring Boot
-- **Database**: PostgreSQL, MySQL
+- **Framework**: Spring Boot, Flutter
+- **Database**: PostgreSQL, MySQL, Firestore
 - **DevOps**: Docker, Github Actions
-- **Others**: Flutter, React, Flask, Figma, Notion, Slack, Discord
+- **Others**: React, Flask, Figma, Notion, Slack, Discord
 
 ### 🚀 Projects
-- **[킁도리 - 벡엔드]** (_May 2025 – 현재_)
-  - 좋았던 기억과 나빴던 기억을 모두 포함한 솔직한 리뷰를 기록하고 친구들과 개인적으로 공유할 수 있는 장소 스크랩 기반 소셜 북마킹 서비스
-  - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
-  - [GitHub Repository](https://github.com/i-chaeyeon/9oormthon-keungdori-be)
 - **[NotiSKKU - Full Stack]** (_Aug 2024 – 현재_)
     - 🏆 성균관대학교 소프트웨어융합대학 주관 토이프로젝트 경진대회 2위
-  - 성균관대학교 전체 및 단과대별, 학과별 공지사항을 학생들이 쉽게 접근할 수 있도록 깔끔하고 직관적인 모바일 인터페이스로 재구성하고, 푸시 알림을 제공하는 모바일 앱
+    - Google Play Store → [Click Here!](https://play.google.com/store/apps/details?id=app.notiskku.mobile&hl=en)
+  - 성균관대학교 전체 및 단과대별, 학과별 공지사항을 학생들이 쉽게 접근할 수 있도록 깔끔하고 직관적인 모바일 인터페이스로 재구성하고, 키워드에 맞추어 푸시 알림을 제공하는 모바일 앱
   - Tech Stack: `Flutter`, `Firebase`, `Playwright`, `FCM`
   - [GitHub Repository](https://github.com/Team-Notiskku)
+- **[Per-Log - AI & Full Stack]** (_Dec 2025 - Present_) - 일시 중단
+  - 손글씨 OCR 기반 개인 일기장 기록 서비스로, 공감형 챗봇과 감정 분석도 함께 제공하는 모바일 앱 
+  - Tech Stack: `Flutter`
+  - [GitHub Repository] 
+- **[킁도리 - 벡엔드]** (_May 2025 – Nov 2025_)
+  - 솔직한 리뷰와 해시태그로 기억하는 장소 스크랩 기반 소셜 북마킹 서비스
+  - Tech Stack: `Spring Boot`, `JPA`, `PostgreSQL`, `CloudType`, `Supabase`
+  - [GitHub Repository](https://github.com/i-chaeyeon/9oormthon-keungdori-be)
 - **[OneMinutes - PM]** (_Sep 2025 – Sep 2025_)
     - 🏆 본선 진출, kakao x goorm SEASONTHON Hackathon (상위 20% 이내)
   - AI 회의록 분석을 통한 Action Item 선별, 우선순위 지정 및 회의 생산성 제고 서비스
@@ -45,7 +49,7 @@
 - **TA** @ [SKKU](https://www.skku.edu/skku/index.do) (_Mar 2024 – Present_)
   - '문제해결과 컴퓨팅사고' 과목 외 3개 과목에서 TA로, 학부 1학년 학생들을 대상으로 한 알고리즘 문제 해결 및 가이드라인 제시
 
-- **중등부 영어 강사** @ [송이룸영문법](https://www.songirum.com/) (_Jan 2025 – Present_)
+- **중등부 영어 강사** @ [송이룸영문법](https://www.songirum.com/) (_Jan 2025 – Dec 2025_)
   - 신천중, 잠신중, 선화예중 전담 내신 및 초/중등부 문법, 독해 강사
 
 - **알고리즘 특강 이수** @ [SamsungDX](https://www.samsung-dxrecruit.com/company) (_Aug 2025 – Sep 2025_)
